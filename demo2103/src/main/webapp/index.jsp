@@ -8,5 +8,6 @@
 </head>
 <body>
 index.jsp
+수업소스와 통합후 테스트
 </body>
 </html>
